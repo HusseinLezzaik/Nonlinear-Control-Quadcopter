@@ -1,4 +1,6 @@
-# Nonlinear-Control-Quadcopter
+# Nonlinear Control Quadcopter
+
+## Introduction
 The main objective of this project is to propose a stabilization control algorithm for a quadrotor, based on the " Nested Saturations Approach " .
 
 * The MATLAB script "main.m" simulates the behaviour of a quadcopter 
@@ -26,3 +28,8 @@ helper functions for quadcopter animation.
 	- Plots of the errors on x,y,z, and yaw angle.
 	- Plots of the applied main thrust and the three torques.
 	- 3D Plots of the trajectory followed, and the desired one.
+	- 
+## Maintainers
+* [Hussein Lezzaik](www.husseinlezzaik.com)
+* [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/)
+* [Ahmad Shour](https://www.linkedin.com/in/ahmad-shour-1531371a8/)
