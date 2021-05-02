@@ -27,6 +27,8 @@ helper functions for quadcopter animation.
 
 * After adjusting the parameters, simply run the script (`"main.m"`).
 
+You can find more details about our approach and results in `ARS5_Final_Project_Report.pdf`
+ 
 ## What the script does:
 	- if animation enabled, the drone and its desired trajectory are plotted
 	  as animation.
@@ -34,7 +36,7 @@ helper functions for quadcopter animation.
 	- Plots of the applied main thrust and the three torques.
 	- 3D Plots of the trajectory followed, and the desired one.
 
-## Maintainers
+## Contact
 If you have any question, or if anything of the above is not working, don't hestitate to contact us! We are more than happy to help!
 * [Hussein Lezzaik](www.husseinlezzaik.com)
 * [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/)
